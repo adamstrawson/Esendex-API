@@ -16,4 +16,10 @@ Tutorials listed
 
 In this tutorial you'll be able to connect to the Esendex API and display a list of messages in your Esendex account.
 
+### deleteMessage.php
+
+In this demo you'll be able to pass the message ID to the deleteMessage function and delete the message from your Esendex account.
+
+
 I'll be adding more over time.
+
